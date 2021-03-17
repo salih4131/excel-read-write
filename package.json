@@ -1,0 +1,17 @@
+{
+  "name": "exel-write",
+  "version": "1.0.0",
+  "description": "",
+  "main": "write.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "exel"
+  ],
+  "author": "salih b. uyanik",
+  "license": "ISC",
+  "dependencies": {
+    "xlsx": "^0.16.9"
+  }
+}
